@@ -2,6 +2,7 @@
 
 ## Project Overview
 An interactive Excel dashboard built to analyze Blinkit grocery sales data. Leveraging pivot tables, slicers and custom visualizations, it delivers real‑time insights into key KPIs—total sales, average sales, items sold and average customer ratings—through a user‑friendly, customizable interface.  
+![Blinkit Dashboard](Images%20Used/blinkitdashboard.png) 
 [View Dashboard](https://onedrive.live.com/embed?resid=4EFE511DBC84EC7B%214049&authkey=%21AOBt4LNB8XdLHJg&em=2&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True)
 
 ## Data Overview
